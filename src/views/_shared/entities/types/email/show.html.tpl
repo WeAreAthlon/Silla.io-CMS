@@ -1,0 +1,1 @@
+<a href="mailto:{$attr.default}"><span class="glyphicon glyphicon-envelope"></span> {$attr.default}</a>
