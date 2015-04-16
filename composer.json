@@ -30,6 +30,7 @@
         "phpunit/dbunit"    : ">=1.2"
     },
     "autoload": {
+        "files": ["src/routes.php"],
         "psr-4": {
             "CMS\\": "src/"
         }
